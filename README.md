@@ -1,6 +1,6 @@
 # SPL_2014
 Project for Soliton Hackathon 2014 SPL event
 
-Node Webkit application 
+Java application 
 
-Technology stack - Node, NPM, Javascript, NET (TCP communication)
+Technology stack - Java
